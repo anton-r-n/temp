@@ -1,0 +1,35 @@
+.FormInput {
+  position: relative;
+}
+
+.FormInput label {
+  display: block;
+}
+
+.FormInput input.text {
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+  display: block;
+  box-sizing: border-box;
+  border: 1px solid #9e9e9e;
+  padding: 0 5px;
+  margin: 0;
+  height: 25px;
+  line-height: 23px;
+  width: 100%;
+  background-color: #fff;
+  transition: background-color 0.3s, border-color 0.3s;
+  font-family: monospace;
+}
+
+.InlineForm input.text {
+  width: 8rem;
+}
+
+.FormInput input.text:focus {
+  border-color: #26a69a;
+  background-color: #e0f2f1;
+}

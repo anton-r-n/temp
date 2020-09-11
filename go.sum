@@ -1,0 +1,6 @@
+github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b h1:L/QXpzIa3pOvUGt1D1lA5KjYhPBAN/3iWdP7xeFS9F0=
+github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b/go.mod h1:H0wQNHz2YrLsuXOZozoeDmnHXkNCRmMW0gwFWDfEZDA=
+github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gGcHOs=
+github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+rogchap.com/v8go v0.2.0 h1:/WYn0qDow4Q5nLzzl5FUUzHyMtH9KKh0ZVmMiDSFTBo=
+rogchap.com/v8go v0.2.0/go.mod h1:IitZnaOtWSJadY/7qinKHIEHpxsilMWyLQ+Efdo4n4I=

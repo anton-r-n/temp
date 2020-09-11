@@ -1,0 +1,10 @@
+.MainMenu {
+  width: 50rem;
+  margin: 0 auto;
+  line-height: 2rem;
+}
+
+.MainMenu > ul > li {
+  display: inline-block;
+  padding: 0 0.5rem;
+}

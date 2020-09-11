@@ -1,0 +1,28 @@
+/*
+ * Define z-index between Content, Modal, and Tooltip
+ */
+.Main {
+  display: block;
+  position: relative;
+  overflow: auto;
+  height: 100vh;
+  z-index: 1;
+}
+
+.Main > .MainMenu,
+.Main > .MainHeader,
+.Main > .MainContent {
+  display: block;
+  position: relative;
+  z-index: 1;
+}
+
+.Main > .MainModal {
+  position: fixed;
+  z-index: 2;
+}
+
+.Main > .MainTooltip {
+  position: fixed;
+  z-index: 3;
+}

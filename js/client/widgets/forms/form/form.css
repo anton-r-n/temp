@@ -1,0 +1,12 @@
+.Form.block {
+  display: block;
+  width: 100%;
+  max-width: 32rem;
+  margin: 0 auto;
+}
+
+.Form.block .field {
+  display: block;
+  margin: 1px 0;
+  padding: 15px 1em 16px;
+}

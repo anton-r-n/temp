@@ -1,0 +1,4 @@
+bin/*
+static/*
+utils/files.go
+.DS_Store

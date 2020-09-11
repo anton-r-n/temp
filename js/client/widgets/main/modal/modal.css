@@ -1,0 +1,29 @@
+.MainModal .layer {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+.MainModal .shadow {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.MainModal .container {
+  position: fixed;
+  z-index: 2;
+  background-color: #fff;
+  width: 45rem;
+  top: 1rem;
+  box-sizing: border-box;
+  padding: 1rem;
+  border: 1px solid #aaa;
+  left: calc((100vw - 45rem) / 2);
+  border-radius: 2px;
+}

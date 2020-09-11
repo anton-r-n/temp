@@ -1,0 +1,14 @@
+.Table table {
+  /* table-layout: fixed; */
+  width: 30rem;
+  margin: 0 auto;
+}
+
+.Table td {
+  padding: 0.1rem 0.5rem;
+}
+
+.Table > h3 {
+  font-weight: bold;
+  padding: 0 0.5rem;
+}
